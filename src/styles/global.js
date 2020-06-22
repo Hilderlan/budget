@@ -8,6 +8,10 @@ export default createGlobalStyle`
     font-family: 'Roboto', sans-serif;
   }
 
+  html {
+    font-size: 14px;
+  }
+
   button, input {
     outline: 0;
   }
