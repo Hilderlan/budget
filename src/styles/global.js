@@ -9,7 +9,7 @@ export default createGlobalStyle`
   }
 
   html {
-    font-size: 14px;
+    font-size: 62.5%;
   }
 
   button, input {

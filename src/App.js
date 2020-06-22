@@ -1,4 +1,7 @@
 import React from 'react';
+import Header from './components/Header';
+import Balance from './components/Balance';
+import AddTransaction from './components/AddTransaction';
 import GlobalStyles from './styles/global';
 import {Container, Wrapper} from './styles/styles';
 
@@ -8,7 +11,9 @@ function App() {
       <GlobalStyles />
       <Container>
         <Wrapper>
-          <h1>Hello World!</h1>
+          <Header />
+          <Balance />
+          <AddTransaction />
         </Wrapper>
       </Container>
     </>
