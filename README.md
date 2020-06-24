@@ -3,7 +3,7 @@
 </h1> 
 
 <p align="center">
-🎧 🎼 Uma ferramenta para centralizar seus ganhos e gastos.
+Uma ferramenta para centralizar seus ganhos e gastos.
 </p> 
 
 ## 🎨 Screens
