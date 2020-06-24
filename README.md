@@ -9,7 +9,7 @@ Uma ferramenta para centralizar seus ganhos e gastos.
 ## 🎨 Screens
 
 <h3 align="center">
-  <img alt="logo" src="./screenshots/budget_logo.PNG?raw=true" width="1000px"/>
+  <img alt="logo" src="./screenshots/budget_logo.png" width="1000px"/>
 </h3>
 
 ## ✅ Features
